@@ -30,6 +30,6 @@ Install the required libraries .
 ## Screenshots
 
 
-<p align="center"><img src="ss.jpg"></p>
+<p align="center"><img src="ss.JPG"></p>
 
   
