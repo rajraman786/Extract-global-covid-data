@@ -1,7 +1,7 @@
 
 # Extract Covid-Data
 
-The corona virus is one of the biggest pandemics that put the world at risk. At the same time, this is one of the most trending messages that all these days have. In this article, we will Extract data and provide Covid-19 statistics in a human-readable form and store the data in an Excel sheet. You can scrap the data with [this link](https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/)
+The corona virus is one of the biggest pandemics that put the world at risk. At the same time, this is one of the most trending messages that all these days have. In this article, we will Extract data and provide Covid-19 statistics in a human-readable form and store the data in an Excel sheet. You can scrap the data with [this link](https://www.worldometers.info/coronavirus/countries-where-coronavirus-has-spread/) . we have also build its gui using tkinter which recieve country name as input from user and give output as conformed case , death no. and continent in which country belongs .
 
 
 ## Contributing
@@ -19,10 +19,17 @@ Install the required libraries .
   pip install bs4
   pip install texttable
   pip install requests
+  pip install tkinter
 ```
     
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+  
+## Screenshots
+
+
+<p align="center"><img src="ss.jpg"></p>
 
   
